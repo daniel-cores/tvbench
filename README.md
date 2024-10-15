@@ -12,7 +12,7 @@
 
 [![arXiv](https://img.shields.io/badge/cs.CV-2410.07752-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2410.07752)
 [![Dataset meta](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-TVBench-blue)](https://huggingface.co/datasets/FunAILab/TVBench) 
-[![Static Badge](https://img.shields.io/badge/website-8A2BE2)](https://daniel-cores.github.io/tvbench/)
+[![Static Badge](https://img.shields.io/badge/website-TVBench-8A2BE2)](https://daniel-cores.github.io/tvbench/)
 
 </div>
 
